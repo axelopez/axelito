@@ -1,0 +1,10 @@
+ .bg-morado
+ {
+  background-color:blueviolet !important;
+  text-color: red;
+ }
+
+ .activo
+ {
+  color: blue;
+ }
