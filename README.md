@@ -1,12 +1,12 @@
 ## Proyecto/Tarea Universitaria: Sitio Web en HTML
 
 ### Información General
-Autor: Axel López
-Carné: 202000000
-Fecha: 2024-05-25
-Universidad: Universidad Mariano Gálvez de Guatemala
-Curso: Introducción a sistemas de cómputo
-Profesor: Ing. Ponga el nombre aqui
+- Autor: Axel López 
+- Carné: 202000000
+- Fecha: 2024-05-25
+- Universidad: Universidad Mariano Gálvez de Guatemala
+- Curso: Introducción a sistemas de cómputo
+- Profesor: Ing. Ponga el nombre aqui
 
 
 ### Descripción
